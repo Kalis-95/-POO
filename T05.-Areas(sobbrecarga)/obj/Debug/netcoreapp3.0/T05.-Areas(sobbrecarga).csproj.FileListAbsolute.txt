@@ -1,0 +1,11 @@
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\bin\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).exe
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\bin\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).deps.json
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\bin\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).runtimeconfig.json
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\bin\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).runtimeconfig.dev.json
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\bin\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).dll
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\bin\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).pdb
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\obj\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).csprojAssemblyReference.cache
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\obj\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).AssemblyInfoInputs.cache
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\obj\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).AssemblyInfo.cs
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\obj\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).dll
+C:\Users\W8\source\repos\T05.-Areas(sobbrecarga)\obj\Debug\netcoreapp3.0\T05.-Areas(sobbrecarga).pdb

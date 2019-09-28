@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "T05.-Areas(sobbrecarga)/1.0.0": {
+        "runtime": {
+          "T05.-Areas(sobbrecarga).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T05.-Areas(sobbrecarga)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
