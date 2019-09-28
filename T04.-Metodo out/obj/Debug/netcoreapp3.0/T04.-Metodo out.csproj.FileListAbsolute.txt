@@ -1,0 +1,11 @@
+C:\Users\W8\source\repos\T04.-Metodo out\bin\Debug\netcoreapp3.0\T04.-Metodo out.exe
+C:\Users\W8\source\repos\T04.-Metodo out\bin\Debug\netcoreapp3.0\T04.-Metodo out.deps.json
+C:\Users\W8\source\repos\T04.-Metodo out\bin\Debug\netcoreapp3.0\T04.-Metodo out.runtimeconfig.json
+C:\Users\W8\source\repos\T04.-Metodo out\bin\Debug\netcoreapp3.0\T04.-Metodo out.runtimeconfig.dev.json
+C:\Users\W8\source\repos\T04.-Metodo out\bin\Debug\netcoreapp3.0\T04.-Metodo out.dll
+C:\Users\W8\source\repos\T04.-Metodo out\bin\Debug\netcoreapp3.0\T04.-Metodo out.pdb
+C:\Users\W8\source\repos\T04.-Metodo out\obj\Debug\netcoreapp3.0\T04.-Metodo out.csprojAssemblyReference.cache
+C:\Users\W8\source\repos\T04.-Metodo out\obj\Debug\netcoreapp3.0\T04.-Metodo out.AssemblyInfoInputs.cache
+C:\Users\W8\source\repos\T04.-Metodo out\obj\Debug\netcoreapp3.0\T04.-Metodo out.AssemblyInfo.cs
+C:\Users\W8\source\repos\T04.-Metodo out\obj\Debug\netcoreapp3.0\T04.-Metodo out.dll
+C:\Users\W8\source\repos\T04.-Metodo out\obj\Debug\netcoreapp3.0\T04.-Metodo out.pdb

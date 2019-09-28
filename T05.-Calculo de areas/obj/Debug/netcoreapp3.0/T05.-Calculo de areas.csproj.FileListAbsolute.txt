@@ -1,0 +1,11 @@
+C:\Users\W8\source\repos\T05.-Calculo de areas\bin\Debug\netcoreapp3.0\T05.-Calculo de areas.exe
+C:\Users\W8\source\repos\T05.-Calculo de areas\bin\Debug\netcoreapp3.0\T05.-Calculo de areas.deps.json
+C:\Users\W8\source\repos\T05.-Calculo de areas\bin\Debug\netcoreapp3.0\T05.-Calculo de areas.runtimeconfig.json
+C:\Users\W8\source\repos\T05.-Calculo de areas\bin\Debug\netcoreapp3.0\T05.-Calculo de areas.runtimeconfig.dev.json
+C:\Users\W8\source\repos\T05.-Calculo de areas\bin\Debug\netcoreapp3.0\T05.-Calculo de areas.dll
+C:\Users\W8\source\repos\T05.-Calculo de areas\bin\Debug\netcoreapp3.0\T05.-Calculo de areas.pdb
+C:\Users\W8\source\repos\T05.-Calculo de areas\obj\Debug\netcoreapp3.0\T05.-Calculo de areas.csprojAssemblyReference.cache
+C:\Users\W8\source\repos\T05.-Calculo de areas\obj\Debug\netcoreapp3.0\T05.-Calculo de areas.AssemblyInfoInputs.cache
+C:\Users\W8\source\repos\T05.-Calculo de areas\obj\Debug\netcoreapp3.0\T05.-Calculo de areas.AssemblyInfo.cs
+C:\Users\W8\source\repos\T05.-Calculo de areas\obj\Debug\netcoreapp3.0\T05.-Calculo de areas.dll
+C:\Users\W8\source\repos\T05.-Calculo de areas\obj\Debug\netcoreapp3.0\T05.-Calculo de areas.pdb
