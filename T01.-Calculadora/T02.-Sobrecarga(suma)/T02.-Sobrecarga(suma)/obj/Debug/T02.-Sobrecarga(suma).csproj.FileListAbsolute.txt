@@ -1,0 +1,6 @@
+C:\Users\W8\Desktop\Tercer semestre\T02.-Sobrecarga(suma)\T02.-Sobrecarga(suma)\bin\Debug\T02.-Sobrecarga(suma).exe.config
+C:\Users\W8\Desktop\Tercer semestre\T02.-Sobrecarga(suma)\T02.-Sobrecarga(suma)\bin\Debug\T02.-Sobrecarga(suma).exe
+C:\Users\W8\Desktop\Tercer semestre\T02.-Sobrecarga(suma)\T02.-Sobrecarga(suma)\bin\Debug\T02.-Sobrecarga(suma).pdb
+C:\Users\W8\Desktop\Tercer semestre\T02.-Sobrecarga(suma)\T02.-Sobrecarga(suma)\obj\Debug\T02.-Sobrecarga(suma).csprojAssemblyReference.cache
+C:\Users\W8\Desktop\Tercer semestre\T02.-Sobrecarga(suma)\T02.-Sobrecarga(suma)\obj\Debug\T02.-Sobrecarga(suma).exe
+C:\Users\W8\Desktop\Tercer semestre\T02.-Sobrecarga(suma)\T02.-Sobrecarga(suma)\obj\Debug\T02.-Sobrecarga(suma).pdb
