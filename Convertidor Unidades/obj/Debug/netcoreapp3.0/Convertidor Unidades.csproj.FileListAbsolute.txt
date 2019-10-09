@@ -1,0 +1,11 @@
+C:\Users\W8\source\repos\Convertidor Unidades\bin\Debug\netcoreapp3.0\Convertidor Unidades.exe
+C:\Users\W8\source\repos\Convertidor Unidades\bin\Debug\netcoreapp3.0\Convertidor Unidades.deps.json
+C:\Users\W8\source\repos\Convertidor Unidades\bin\Debug\netcoreapp3.0\Convertidor Unidades.runtimeconfig.json
+C:\Users\W8\source\repos\Convertidor Unidades\bin\Debug\netcoreapp3.0\Convertidor Unidades.runtimeconfig.dev.json
+C:\Users\W8\source\repos\Convertidor Unidades\bin\Debug\netcoreapp3.0\Convertidor Unidades.dll
+C:\Users\W8\source\repos\Convertidor Unidades\bin\Debug\netcoreapp3.0\Convertidor Unidades.pdb
+C:\Users\W8\source\repos\Convertidor Unidades\obj\Debug\netcoreapp3.0\Convertidor Unidades.csprojAssemblyReference.cache
+C:\Users\W8\source\repos\Convertidor Unidades\obj\Debug\netcoreapp3.0\Convertidor Unidades.AssemblyInfoInputs.cache
+C:\Users\W8\source\repos\Convertidor Unidades\obj\Debug\netcoreapp3.0\Convertidor Unidades.AssemblyInfo.cs
+C:\Users\W8\source\repos\Convertidor Unidades\obj\Debug\netcoreapp3.0\Convertidor Unidades.dll
+C:\Users\W8\source\repos\Convertidor Unidades\obj\Debug\netcoreapp3.0\Convertidor Unidades.pdb

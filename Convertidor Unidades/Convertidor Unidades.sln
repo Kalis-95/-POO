@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06-Convertidor de unidades", "T06-Convertidor de unidades.csproj", "{27C4D158-DD53-49AB-9F71-8FD095BDA800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C4D158-DD53-49AB-9F71-8FD095BDA800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C4D158-DD53-49AB-9F71-8FD095BDA800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C4D158-DD53-49AB-9F71-8FD095BDA800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C4D158-DD53-49AB-9F71-8FD095BDA800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75B28A03-65B4-453D-9F4A-34DE64D6CAB6}
+	EndGlobalSection
+EndGlobal
